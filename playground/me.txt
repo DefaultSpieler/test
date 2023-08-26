@@ -1,6 +1,0 @@
-{{#user}}
-Name: Yashpreet
-Skills: HTML, Python, CSS, Cloud Computing, Data Analysis, ML, Java
-Email: yashzedd@gmail.com
-{{/user}}
-
